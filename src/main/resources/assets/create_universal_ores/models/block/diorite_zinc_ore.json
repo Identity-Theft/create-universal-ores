@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "create_universal_ores:block/diorite_zinc_ore"
+  }
+}

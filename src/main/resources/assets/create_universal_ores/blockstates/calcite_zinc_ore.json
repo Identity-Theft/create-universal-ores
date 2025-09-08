@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_universal_ores:block/calcite_zinc_ore"
+    }
+  }
+}

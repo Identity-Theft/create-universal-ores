@@ -1,0 +1,10 @@
+﻿{
+  "replace": false,
+  "values": [
+    "create_universal_ores:granite_zinc_ore",
+    "create_universal_ores:diorite_zinc_ore",
+    "create_universal_ores:andesite_zinc_ore",
+    "create_universal_ores:tuff_zinc_ore",
+    "create_universal_ores:calcite_zinc_ore"
+  ]
+}

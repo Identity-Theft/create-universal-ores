@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "create-universal-ores",
+	"version": "${version}",
+	"name": "Create: Universal Ores",
+	"description": "Adds zinc variants for andesite, diorite, granite, tuff and calcite.",
+	"authors": [
+		"Identity Theft"
+	],
+	"contact": {
+		"homepage": "https://Identity-Theft.github.io",
+		"sources": "https://github.com/Identity-Theft/create-universal-ores"
+	},
+	"license": "MIT",
+	"icon": "assets/create_universal_ores/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"identitytheft.createuniversalores.CreateUniversalOres"
+		]
+	},
+	"mixins": [
+      "create_universal_ores.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+        "create": "*"
+	}
+}
