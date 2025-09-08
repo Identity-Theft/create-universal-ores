@@ -1,7 +1,7 @@
 ﻿### About
 Create: Universal Ores is an addon for [Create](https://modrinth.com/mod/create-fabric) which adds new zinc ore variants for andesite, diorite, granite, tuff and calcite, in-line with [Universal Ores](https://modrinth.com/mod/universal_ores).
 
-Also adds compatibility between Create and Universal Ores allowing every type of ore to be crushed.
+Also adds compatibility between the two mods by allowing every type of ore to be crushed.
 
 ![ores](https://cdn.modrinth.com/data/VljjXhsu/images/41a6420dc47375b1cff23488b8ac7f00b66233e2.png "Ores")
 
