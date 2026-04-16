@@ -11,7 +11,3 @@ Also adds compatibility between the two mods by allowing every type of ore to be
 [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/create-universal-ores)
 [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Identity-Theft/create-universal-ores)
 [![ko-fi](https://badges.penpow.dev/badges/donate/kofi-singular/cozy-minimal.svg)](https://ko-fi.com/identitytheft)
-
-***
-
-[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/06da615c-314d-40b5-8cca-00204bd8d9b4.webp "BisectHosting")](https://bisecthosting.com/identity "BisectHosting")
